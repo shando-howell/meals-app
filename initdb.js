@@ -5,7 +5,7 @@ const dummyMeals = [
   {
     title: 'Juicy Cheese Burger',
     slug: 'juicy-cheese-burger',
-    image: 'burger.jpg',
+    image: '/images/burger.jpg',
     summary:
       'A mouth-watering burger with a juicy beef patty and melted cheese, served in a soft bun.',
     instructions: `
@@ -27,7 +27,7 @@ const dummyMeals = [
   {
     title: 'Spicy Curry',
     slug: 'spicy-curry',
-    image: 'curry.jpg',
+    image: '/images/curry.jpg',
     summary:
       'A rich and spicy curry, infused with exotic spices and creamy coconut milk.',
     instructions: `
@@ -52,7 +52,7 @@ const dummyMeals = [
   {
     title: 'Homemade Dumplings',
     slug: 'homemade-dumplings',
-    image: 'dumplings.jpg',
+    image: '/images/dumplings.jpg',
     summary:
       'Tender dumplings filled with savory meat and vegetables, steamed to perfection.',
     instructions: `
@@ -74,7 +74,7 @@ const dummyMeals = [
   {
     title: 'Classic Mac n Cheese',
     slug: 'classic-mac-n-cheese',
-    image: 'macncheese.jpg',
+    image: '/images/macncheese.jpg',
     summary:
       "Creamy and cheesy macaroni, a comforting classic that's always a crowd-pleaser.",
     instructions: `
@@ -99,7 +99,7 @@ const dummyMeals = [
   {
     title: 'Authentic Pizza',
     slug: 'authentic-pizza',
-    image: 'pizza.jpg',
+    image: '/images/pizza.jpg',
     summary:
       'Hand-tossed pizza with a tangy tomato sauce, fresh toppings, and melted cheese.',
     instructions: `
@@ -121,7 +121,7 @@ const dummyMeals = [
   {
     title: 'Wiener Schnitzel',
     slug: 'wiener-schnitzel',
-    image: 'schnitzel.jpg',
+    image: '/images/schnitzel.jpg',
     summary:
       'Crispy, golden-brown breaded veal cutlet, a classic Austrian dish.',
     instructions: `
@@ -143,7 +143,7 @@ const dummyMeals = [
   {
     title: 'Fresh Tomato Salad',
     slug: 'fresh-tomato-salad',
-    image: 'tomato-salad.jpg',
+    image: '/images/tomato-salad.jpg',
     summary:
       'A light and refreshing salad with ripe tomatoes, fresh basil, and a tangy vinaigrette.',
     instructions: `
