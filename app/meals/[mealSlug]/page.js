@@ -1,8 +1,6 @@
-import React from 'react'
-
 const MealDetails = () => {
   return (
-    <div>MealDetails</div>
+    <div>Meal Details</div>
   )
 }
 
